@@ -1,4 +1,4 @@
-Saisir -セジール- 仕様書
+STUDENT-dev
 =========================
 
 .. note::
@@ -7,33 +7,41 @@ Saisir -セジール- 仕様書
     
 .. _こちら: https://forms.gle/u9JehhSYTS1XSvJLA
 
-Saisir -セジール- について
+STUDENT-dev について
 -------------------------
 
-Saisirはcsvデータを分析し、顧客の購買傾向をつかむGUIアプリケーションになります。
+STUDENT-devは STUDENT株式会社 のエンジニアのための仕様書サイトです。
 
-現在は商品の購買傾向からクラスタを作成し、各クラスタの特徴を視覚的に捉えることができます。
+命名規則やプルリクの方法などをまとめています。
 
 .. toctree::
     :maxdepth: 2
     :hidden:
-    :caption: Saisir について
+    :caption: STUDENT-dev について
     
     /about/what-why
 
-ダウンロード
+
+学習
 --------------------------
 
-Saisirはローカル環境で実行するアプリケーションになります。
+STUDENT-devでの作業にあたって初めに基礎力を身につけます。
 
-ダウンロードしていない方、最新バージョンをダウンロードする方は :doc:`ダウンロード <download/download>` からアプリケーションのダウンロードを行ってください。
+ご自身の理解度に合わせて読み進めてください。
+
+:doc:`ダウンロード <download/download>` からアプリケーションのダウンロードを行ってください。
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :hidden:
-    :caption: ダウンロード
+    :caption: 学習
 
-    /download/download
+    /learning/beginner/1_first
+    /learning/beginner/
+    /learning/beginner/
+    /learning/developer/
+    /learning/developer/
+    /learning/developer/
 
 使い方
 ------
